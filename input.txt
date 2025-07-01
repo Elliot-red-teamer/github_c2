@@ -1,1 +1,1 @@
-whoami
+netsh wlan show profile
