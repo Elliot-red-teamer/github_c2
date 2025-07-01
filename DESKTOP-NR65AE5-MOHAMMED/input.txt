@@ -1,1 +1,1 @@
-netsh wlan show profile name = "As_Ay@00" key = clear
+0
