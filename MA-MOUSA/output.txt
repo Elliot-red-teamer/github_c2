@@ -1,43 +1,48 @@
 
-Profile As_Ay@00 on interface WiFi: 
-======================================================================= 
+Windows IP Configuration
 
-Applied: All User Profile    
 
-Profile information 
-------------------- 
-    Version                : 1
-    Type                   : Wireless LAN
-    Name                   : As_Ay@00
-    Control options        : 
-        Connection mode    : Connect manually
-        Network broadcast  : Connect only if this network is broadcasting
-        AutoSwitch         : Do not switch to other networks
-        MAC Randomization  : Disabled
+Unknown adapter VPN - VPN Client:
 
-Connectivity settings 
---------------------- 
-    Number of SSIDs        : 1
-    SSID name              : "As_Ay@00"
-    Network type           : Infrastructure
-    Radio type             : [ Any Radio Type ]
-    Vendor extension          : Not present
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
 
-Security settings 
------------------ 
-    Authentication         : WPA2-Personal
-    Cipher                 : CCMP
-    Authentication         : WPA2-Personal
-    Cipher                 : GCMP
-    Security key           : Present
-    Key Content            : As711300@Ay_77
+Unknown adapter ??ںéں¢­ںé ںéê¥éï:
 
-Cost settings 
-------------- 
-    Cost                   : Unrestricted
-    Congested              : No
-    Approaching Data Limit : No
-    Over Data Limit        : No
-    Roaming                : No
-    Cost Source            : Default
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
 
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter OpenVPN Connect DCO Adapter:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ??ںéں¢­ںé ںéê¥éï* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ??ںéں¢­ںé ںéê¥éï* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::c264:9636:5a0e:6626%32
+   IPv4 Address. . . . . . . . . . . : 192.168.3.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.8.58
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.8.1
