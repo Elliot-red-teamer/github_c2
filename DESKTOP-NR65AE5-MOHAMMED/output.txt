@@ -1,0 +1,14 @@
+
+Profiles on interface WiFi 1:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : First-Floor 4G
+    All User Profile     : SOC-02
+    All User Profile     : OnePlus 8T
+    All User Profile     : As_Ay@00
+
