@@ -1,57 +1,47 @@
 
-Windows IP Configuration
+Profiles on interface WiFi:
 
+Group policy profiles (read only)
+---------------------------------
+    <None>
 
-Unknown adapter VPN - VPN Client:
+User profiles
+-------------
+    All User Profile     : First-Floor 4G
+    All User Profile     : MA-Dx4 2
+    All User Profile     : MA-Dx4
+    All User Profile     : random 3
+    All User Profile     : random
+    All User Profile     : OnePlus 8T
+    All User Profile     : 4G-CPE-2BDB
+    All User Profile     : random 2
+    All User Profile     : !SPEED-NET-0317
+    All User Profile     : Quran
+    All User Profile     : Eng.ah
+    All User Profile     : Mohammed
+    All User Profile     : lolo
+    All User Profile     : Faisal(771666523)
+    All User Profile     : As_Ay@00
+    All User Profile     : WAMAHA
+    All User Profile     : ALI
+    All User Profile     : Al-Hagam-Wifi-40
+    All User Profile     : FFFF
+    All User Profile     : HackToLearn
+    All User Profile     : MA-Dx4 3
+    All User Profile     : TP-LINK_920DC2
+    All User Profile     : .
+    All User Profile     : iPhone
+    All User Profile     : QURAN
+    All User Profile     : Speed Net(012)
+    All User Profile     : Speed Net (37)
+    All User Profile     : mousa@2020
+    All User Profile     : AL- SAEED NET (15)
+    All User Profile     : MA
+    All User Profile     : Speed Net(0212)
+    All User Profile     : ALBARBARI(771666523)NET
+    All User Profile     : Yemen4G-4D5D50
+    All User Profile     : AMAL2121
+    All User Profile     : Speed Net (64) / 775827642
+    All User Profile     : ALBARBARI NET
+    All User Profile     : ALBARBARI NET 11
 
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter ??ںéں¢­ںé ںéê¥éï:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter CloudflareWARP:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2606:4700:110:802c:1cf4:222e:e31e:f384
-   Link-local IPv6 Address . . . . . : fe80::83b:d647:4bed:d388%75
-   IPv4 Address. . . . . . . . . . . : 172.16.0.2
-   Subnet Mask . . . . . . . . . . . : 255.255.255.255
-   Default Gateway . . . . . . . . . : 
-
-Unknown adapter OpenVPN Connect DCO Adapter:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter ??ںéں¢­ںé ںéê¥éï* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter ??ںéں¢­ںé ںéê¥éï* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter VMware Network Adapter VMnet8:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::c264:9636:5a0e:6626%32
-   IPv4 Address. . . . . . . . . . . : 192.168.3.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter WiFi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.8.58
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.8.1
