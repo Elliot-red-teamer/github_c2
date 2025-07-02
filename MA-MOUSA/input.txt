@@ -1,1 +1,1 @@
-ipconfig
+netsh wlan show profile
