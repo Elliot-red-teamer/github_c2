@@ -1,1 +1,2 @@
-ma\mousa
+cd
+D:\DeepSafer\Third-party communication channels\Github C2
