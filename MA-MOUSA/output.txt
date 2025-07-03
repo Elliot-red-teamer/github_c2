@@ -1,2 +1,2 @@
-alive
-Yes ALIVE
+whoami
+ma\mousa
