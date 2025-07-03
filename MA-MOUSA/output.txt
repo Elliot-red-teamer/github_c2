@@ -1,6 +1,6 @@
-netsh wlan show profile name=ma-dx4 key=clear
+netsh wlan show profile name="ALBARBARI NET" key=clear
 
-Profile MA-Dx4 on interface WiFi: 
+Profile ALBARBARI NET on interface WiFi: 
 ======================================================================= 
 
 Applied: All User Profile    
@@ -9,7 +9,7 @@ Profile information
 ------------------- 
     Version                : 1
     Type                   : Wireless LAN
-    Name                   : MA-Dx4
+    Name                   : ALBARBARI NET
     Control options        : 
         Connection mode    : Connect manually
         Network broadcast  : Connect only if this network is broadcasting
@@ -19,7 +19,7 @@ Profile information
 Connectivity settings 
 --------------------- 
     Number of SSIDs        : 1
-    SSID name              : "MA-Dx4"
+    SSID name              : "ALBARBARI NET"
     Network type           : Infrastructure
     Radio type             : [ Any Radio Type ]
     Vendor extension          : Not present
@@ -31,7 +31,7 @@ Security settings
     Authentication         : WPA2-Personal
     Cipher                 : GCMP
     Security key           : Present
-    Key Content            : zq{}YGLjs4
+    Key Content            : 771666523ffff
 
 Cost settings 
 ------------- 
