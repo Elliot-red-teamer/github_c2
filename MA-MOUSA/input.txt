@@ -1,1 +1,1 @@
-alive
+whoami
