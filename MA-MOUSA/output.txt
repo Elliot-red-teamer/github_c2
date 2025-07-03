@@ -1,2 +1,2 @@
-alive
-Yes ALIVE
+cd
+D:\DeepSafer\Third-party communication channels\Github C2
